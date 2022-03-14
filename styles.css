@@ -19,7 +19,9 @@ h2 {
 .description {
     text-align:center;
 }
-
+.p1 {
+    text-align:center;
+}
 #turkeypic {
     height:auto;
     width: 500px;
