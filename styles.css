@@ -10,3 +10,13 @@ h1 {
     margin-right:auto;
     width: 50%;
 }
+
+h2 {
+    color:rgba(13, 61, 122, 0.555);
+    font-family: copperplate;
+}
+
+#turkeypic {
+    height:auto;
+    width: 500px;
+}
